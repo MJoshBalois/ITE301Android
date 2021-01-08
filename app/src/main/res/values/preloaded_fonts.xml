@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/archivo_black</item>
+        <item>@font/archivo_narrow</item>
+        <item>@font/chonburi</item>
+        <item>@font/muli_bold</item>
+        <item>@font/trocchi</item>
+    </array>
+</resources>
